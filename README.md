@@ -45,7 +45,7 @@
 > 本地 VSCode 的 `Remote - SSH` 插件配置（`~/.ssh/config`）
 
 ```ssh-config
-Host 有线10_3_5090_ysj
+Host 10.6.36.210
   HostName 10.6.36.210
   User ysj
   RemoteForward 9999 127.0.0.1:7897
